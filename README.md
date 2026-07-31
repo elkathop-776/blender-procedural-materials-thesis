@@ -5,7 +5,7 @@
 **Software:** Blender 4.2  
 
 ## Overview
-This repository contains the source files and documentation for my thesis on procedural texturing in **Blender**. The project demonstrates how to construct complex materials using PBR shader nodes without relying on external image textures.
+This repository contains the source files and documentation for my undergraduate thesis on procedural texturing in **Blender**. The project demonstrates how to construct complex materials using PBR shader nodes without relying on external image textures.
 
 ## Included Materials
 - **Aqua Marble**
